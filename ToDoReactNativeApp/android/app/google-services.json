@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383447424215",
+    "project_id": "assignment-19-85878",
+    "storage_bucket": "assignment-19-85878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383447424215:android:b42b9a2217ef2e86266492",
+        "android_client_info": {
+          "package_name": "com.todoreactnativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383447424215-0pjkceqdthu90n1aqfml4keamov6moke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzN4r7TZuOkQMY3qdgxNJnMsFkl2Fx6fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383447424215-0pjkceqdthu90n1aqfml4keamov6moke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
